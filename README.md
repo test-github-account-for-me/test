@@ -10,7 +10,7 @@ Add badges to your Profile and Projects.
 - [Tips](#tips)
 - [Contribution](#contribution)
 - [License](#license)
-- [Badges](#badges)
+- [Badges](#значки)
 
 оьмлдокумо
 
@@ -77,7 +77,7 @@ Add badges to your Profile and Projects.
 р
 р5
 п
-# Badges
+# Значки
 
 ### 🤖 Artificial Intelligence and Bots
 
