@@ -77,7 +77,7 @@ Add badges to your Profile and Projects.
 р
 р5
 п
-# Значки
+## Значки
 
 ### 🤖 Artificial Intelligence and Bots
 
