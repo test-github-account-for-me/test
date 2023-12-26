@@ -5,12 +5,8 @@ Add badges to your Profile and Projects.
 
 # Table of contents
 - [Markdown Badges](#markdown-badges)
-- [Table of contents](#table-of-contents)
 - [Usage](#usage)
-- [Tips](#tips)
-- [Contribution](#contribution)
-- [License](#license)
-- [Badges](#значки-куку-ok)
+- [Значки](#значки-куку-ok)
 
 оьмлдокумо
 
