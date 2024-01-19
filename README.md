@@ -168,7 +168,10 @@ Add badges to your Profile and Projects.
 
 [(Back to top)](#table-of-contents)
 
-### 💲 Cryptocurrency
 
-| Name         | Badge                                                                                                                       | Markdown                                                                                                                      |
-| ------------ | ------
+  После этого запустите NeoVim и создайте файл ```pyrightconfig.json``` внутри той же директории и добавьте туда следующий код:
+   ```json
+  {
+      "venvPath": "/path/to/venv"
+  }
+  ```
