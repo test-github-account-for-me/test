@@ -172,6 +172,6 @@ Add badges to your Profile and Projects.
   После этого запустите NeoVim и создайте файл ```pyrightconfig.json``` внутри той же директории и добавьте туда следующий код:
    ```json
   {
-      "venvPath": "/path/to/venv"
+       "venvPath": "/path/to/venv"
   }
   ```
